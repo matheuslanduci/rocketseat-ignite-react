@@ -19,3 +19,6 @@ Repositório para listar meus repositórios de aulas, desafios e projetos feitos
 - [Desafio 04 - Refactoring de classes e TypeScript](https://github.com/matheuslanduci/desafio04-trilha-react).
 
 ### Outros projetos
+
+### Anotações
+Todas as anotações estão sendo realizadas no [Notion](https://www.notion.so/Ignite-7e09c1f1455a4191bc52b908232859bd).
