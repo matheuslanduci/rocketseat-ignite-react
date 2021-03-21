@@ -20,5 +20,7 @@ Repositório para listar meus repositórios de aulas, desafios e projetos feitos
 
 ### Outros projetos
 
+- [Projeto 01 - dt money](https://github.com/matheuslanduci/dt-money)
+
 ### Anotações
 Todas as anotações estão sendo realizadas no [Notion](https://www.notion.so/Ignite-7e09c1f1455a4191bc52b908232859bd).
