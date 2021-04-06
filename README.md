@@ -10,6 +10,7 @@ Repositório para listar meus repositórios de aulas, desafios e projetos feitos
 
 - [Aula 01 - Fundamentos do ReactJS](https://github.com/matheuslanduci/aula01-trilha-react).
 - [Aula 02 - Primeira aplicação web com ReactJS](https://github.com/matheuslanduci/aula02-trilha-react)
+- [Aula 03 - Primeira aplicação web com NextJS](https://github.com/matheuslanduci/aula03-trilha-react)
 
 ### Desafios
 
