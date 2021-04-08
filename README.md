@@ -19,6 +19,7 @@ Repositório para listar meus repositórios de aulas, desafios e projetos feitos
 - [Desafio 03 - Criando um hook de carrinho de compras](https://github.com/matheuslanduci/desafio03-trilha-react)
 - [Desafio 04 - Refactoring de classes e TypeScript](https://github.com/matheuslanduci/desafio04-trilha-react)
 - [Desafio 05 - Criando uma aplicação do zero](https://github.com/matheuslanduci/desafio05-trilha-react)
+- [Desafio 06 - Adicionado features ao blog](https://github.com/matheuslanduci/desafio06-trilha-react)
 
 ### Outros projetos
 
