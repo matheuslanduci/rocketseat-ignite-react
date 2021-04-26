@@ -25,6 +25,11 @@ Repositório para listar meus repositórios de aulas, desafios e projetos feitos
 
 - [Projeto 01 - dt money](https://github.com/matheuslanduci/dt-money)
 
+### Bônus 
+
+- [Bônus 01 - Flexbox CSS](https://github.com/matheuslanduci/bonus01-trilha-react)
+- [Bônus 02 - Redux e Redux Saga](https://github.com/matheuslanduci/bonus02-trilha-react)
+
 ### Treinamentos
 
 - [Treinamento 01 - Github Explorer](https://github.com/matheuslanduci/github-explorer)
