@@ -11,6 +11,8 @@ Repositório para listar meus repositórios de aulas, desafios e projetos feitos
 - [Aula 01 - Fundamentos do ReactJS](https://github.com/matheuslanduci/aula01-trilha-react)
 - [Aula 02 - Primeira aplicação web com ReactJS](https://github.com/matheuslanduci/aula02-trilha-react)
 - [Aula 03 - Primeira aplicação web com NextJS](https://github.com/matheuslanduci/aula03-trilha-react)
+- [Aula 04 - Construindo aplicação do futuro](https://github.com/matheuslanduci/aula04-trilha-react)
+- [Aula 05 - Autenticação e autorização no NextJS](https://github.com/matheuslanduci/aula05-trilha-react)
 
 ### Desafios
 
@@ -25,6 +27,7 @@ Repositório para listar meus repositórios de aulas, desafios e projetos feitos
 ### Projetos
 
 - [Projeto 01 - dt money](https://github.com/matheuslanduci/dt-money)
+- [Projeto 02 - dashgo](https://github.com/matheuslanduci/dashgo)
 
 ### Bônus 
 
