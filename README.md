@@ -13,6 +13,7 @@ Repositório para listar meus repositórios de aulas, desafios e projetos feitos
 - [Aula 03 - Primeira aplicação web com NextJS](https://github.com/matheuslanduci/aula03-trilha-react)
 - [Aula 04 - Construindo aplicação do futuro](https://github.com/matheuslanduci/aula04-trilha-react)
 - [Aula 05 - Autenticação e autorização no NextJS](https://github.com/matheuslanduci/aula05-trilha-react)
+- [Aula 06 - Performando apps com ReactJS](https://github.com/matheuslanduci/aula06-trilha-react)
 
 ### Desafios
 
