@@ -15,7 +15,8 @@ Repositório para listar meus repositórios de aulas, desafios e projetos feitos
 - [Aula 05 - Autenticação e autorização no NextJS](https://github.com/matheuslanduci/aula05-trilha-react)
 - [Aula 06 - Performando apps com ReactJS](https://github.com/matheuslanduci/aula06-trilha-react)
 - [Aula 07 - Testes unitários no React](https://github.com/matheuslanduci/aula07-trilha-react)
-- [Aula 08 - Deploy Netlify](https://github.com/matheuslanduci/aula08-trilha-react)
+- [Aula 08 - Deploy Netlify (SPA)](https://github.com/matheuslanduci/aula08-trilha-react)
+- [Aula 08 - Deploy Vercel (Next.js)](https://github.com/matheuslanduci/aula09-trilha-react)
 
 ### Desafios
 
